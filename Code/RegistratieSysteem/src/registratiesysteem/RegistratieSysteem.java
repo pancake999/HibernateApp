@@ -23,6 +23,7 @@ public class RegistratieSysteem {
             RP.setSize(625, 350);
             RP.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             RP.setVisible(true);
+            
         
     }
     
