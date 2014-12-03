@@ -5,6 +5,8 @@
  */
 package registratiesysteem;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author ARISTOCRAT
@@ -16,6 +18,12 @@ public class RegistratieSysteem {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JFrame RP = new RegistratiePaneel();
+            RP.setSize(625, 350);
+            RP.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            RP.setVisible(true);
+        
     }
     
 }

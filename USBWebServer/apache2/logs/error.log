@@ -1,6 +1,5 @@
-[Mon Dec 01 13:37:44.068239 2014] [mpm_winnt:notice] [pid 11692:tid 380] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Mon Dec 01 13:37:44.068239 2014] [mpm_winnt:notice] [pid 11692:tid 380] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Mon Dec 01 13:37:44.068239 2014] [core:notice] [pid 11692:tid 380] AH00094: Command line: 'C:\\Users\\ARISTOCRAT\\Desktop\\WebServer/apache2/bin/httpd_usbwv8.exe -d C:/Users/ARISTOCRAT/Desktop/WebServer/apache2'
-[Mon Dec 01 13:37:44.078239 2014] [mpm_winnt:notice] [pid 11692:tid 380] AH00418: Parent: Created child process 8428
-[Mon Dec 01 13:37:45.425741 2014] [mpm_winnt:notice] [pid 8428:tid 396] AH00354: Child: Starting 64 worker threads.
-[Mon Dec 01 14:02:07.319311 2014] [:error] [pid 8428:tid 916] [client ::1:26341] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\Users\\ARISTOCRAT\\Desktop\\WebServer\\root\\index.php on line 47
+[Wed Dec 03 15:51:53.693945 2014] [mpm_winnt:notice] [pid 4328:tid 380] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Wed Dec 03 15:51:53.693945 2014] [mpm_winnt:notice] [pid 4328:tid 380] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Wed Dec 03 15:51:53.693945 2014] [core:notice] [pid 4328:tid 380] AH00094: Command line: 'C:\\Users\\ARISTOCRAT\\Desktop\\GITHUB.SYNC\\HibernateApp\\USBWebServer/apache2/bin/httpd_usbwv8.exe -d C:/Users/ARISTOCRAT/Desktop/GITHUB.SYNC/HibernateApp/USBWebServer/apache2'
+[Wed Dec 03 15:51:53.695945 2014] [mpm_winnt:notice] [pid 4328:tid 380] AH00418: Parent: Created child process 3312
+[Wed Dec 03 15:51:54.650000 2014] [mpm_winnt:notice] [pid 3312:tid 396] AH00354: Child: Starting 64 worker threads.
